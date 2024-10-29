@@ -1,0 +1,10 @@
+canvas {
+  background-color: lightgray;
+}
+
+button {
+  cursor: pointer;
+  height: 30px;
+  width: 90px;
+  font-size: 15px;
+}
